@@ -1,0 +1,16 @@
+? (10.57.1.17) at 0c:96:e6:53:6b:2c [ether] on wlp5s0
+? (10.57.1.238) at fa:bd:0b:e6:f8:3c [ether] on wlp5s0
+? (10.57.1.38) at ba:56:1b:d8:37:31 [ether] on wlp5s0
+? (10.57.1.68) at c4:41:1e:2a:cf:c1 [ether] on wlp5s0
+? (10.57.1.241) at c2:9e:fc:c0:e5:c8 [ether] on wlp5s0
+? (10.57.1.206) at 52:49:a2:52:c6:26 [ether] on wlp5s0
+_gateway (10.57.1.1) at 8c:e2:da:bd:22:1a [ether] on wlp5s0
+? (10.57.1.72) at be:32:9a:cd:63:fd [ether] on wlp5s0
+? (10.57.1.13) at a8:e2:c1:44:c9:c7 [ether] on wlp5s0
+? (10.57.1.110) at 50:de:06:8b:18:3d [ether] on wlp5s0
+? (10.57.1.166) at 78:7b:8a:d7:bd:4f [ether] on wlp5s0
+? (10.57.1.66) at c4:41:1e:2a:d0:fc [ether] on wlp5s0
+? (10.57.1.196) at fa:93:0a:de:b4:c3 [ether] on wlp5s0
+? (10.57.1.37) at 50:de:06:77:72:e7 [ether] on wlp5s0
+? (10.57.1.151) at 1e:2f:3e:87:3e:71 [ether] on wlp5s0
+? (10.57.1.34) at 78:04:73:ed:5b:d8 [ether] on wlp5s0
