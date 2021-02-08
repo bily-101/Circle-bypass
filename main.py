@@ -45,9 +45,9 @@ else:
     c2= input("(y,n): ")
     if(c2 == "y"):
         print("OK changing mac address")
-        os.system("sudo ifconfig wlp5s0 down")
-        os.system(f"sudo ifconfig wlp5s0 hw ether {y}")
-        os.system(f"sudo ifconfig wlp5s0 up")
+        os.system("sudo ifconfig {adapter} down")
+        os.system(f"sudo ifconfig {adapter} hw ether {y}")
+        os.system(f"sudo ifconfig {adapter} up")
         print("Finished Your new MAC ADDRESS is" + y +  "\n To change it again run this file")
         input("Enter to exit out: ")
 
