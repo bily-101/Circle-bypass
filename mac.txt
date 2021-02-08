@@ -1,0 +1,7 @@
+Ivans-iPad-Pro.hsd1.il.comcast.net (10.57.1.242) at b6:02:9b:3e:9a:b8 [ether] on wlp5s0
+? (10.57.1.166) at 78:7b:8a:d7:bd:4f [ether] on wlp5s0
+TatianasiPad2.hsd1.il.comcast.net (10.57.1.72) at be:32:9a:cd:63:fd [ether] on wlp5s0
+TatianaLawingsiPadAir2.hsd1.il.comcast.net (10.57.1.38) at ba:56:1b:d8:37:31 [ether] on wlp5s0
+Living-Room.hsd1.il.comcast.net (10.57.1.110) at 50:de:06:8b:18:3d [ether] on wlp5s0
+Linksys02670.hsd1.il.comcast.net (10.57.1.1) at c4:41:1e:2a:d1:29 [ether] on wlp5s0
+Master-Bedroom.hsd1.il.comcast.net (10.57.1.37) at 50:de:06:77:72:e7 [ether] on wlp5s0
